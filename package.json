@@ -1,0 +1,16 @@
+{
+  "name": "mng",
+  "version": "1.0.0",
+  "main": "b.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maryna minkivska",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "fs": "0.0.1-security",
+    "mongodb": "^3.5.6",
+    "express": "^4.17.1",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
